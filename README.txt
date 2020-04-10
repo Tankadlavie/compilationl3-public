@@ -12,3 +12,6 @@ public void caseAInstrvide(AInstrvide node)
 public void caseARecursifListeexp(ARecursifListeexp node)
 
 on été prises sur le rendu de Regis LUU-VU
+
+
+Une grande partie du travail a été réalisé avec le groupe de David RAGARU et David ROYER
